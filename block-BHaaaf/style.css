@@ -1,0 +1,11 @@
+body {
+  background: aqua;
+}
+#heading {
+  color: red;
+  font-size: 40px;
+}
+.para {
+  color: green;
+  font-size: 20px;
+}
